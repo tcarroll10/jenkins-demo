@@ -1,4 +1,3 @@
-
 pipelineJob('theme-park-job') {
     definition {
         cpsScm {
